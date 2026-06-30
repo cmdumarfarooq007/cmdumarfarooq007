@@ -43,9 +43,14 @@ I'm a final-year BCA Data Science student at VIT Vellore with a strong passion f
 
 <td width="35%">
 <a href="https://github.com/cmdumarfarooq007">
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmdumarfarooq007&layout=compact&theme=tokyonight&border_radius=10&hide_border=false&langs_count=8" />
+  <img height="175" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=cmdumarfarooq007&layout=compact&theme=midnight-purple&border_radius=10&langs_count=8" />
 </a>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=cmdumarfarooq007&theme=midnight-purple&hide_border=true" height="170"/>
+</p>
 </td>
+
 
 </tr>
 </table>
